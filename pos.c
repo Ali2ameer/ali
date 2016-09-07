@@ -6,7 +6,7 @@ main()
   {
 	printf("Given number is zero");
   }
-  else if(n>=0)
+  else if(n>0)
   {
 	printf("Given number is positive number");
   }
